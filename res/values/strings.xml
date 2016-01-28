@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">How old are you?</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="repick">Repick</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="copyright">Copyright &#169; 2015 DSA Inc Vietnamese. All rights reserved.</string>
+    <string name="guide">Pick your photo from</string>
+    <string name="action">Action</string>
+    <string name="processing">Processing\.\.\.</string>
+    <string name="post">Share my age</string>
+    <string name="rate">Rate 5 stars</string>
+    <string name="other">Other App</string>
+    <string name="saved">Your photo is saved!</string>
+    <string name="unsaved">Your photo isn\'t saved!</string>
+    <string name="shared">Your photo is shared!</string>
+    <string name="unshared">Your photo isn\'t shared!</string>
+    <string name="unage">I can\'t!</string>
+    <string name="admob_banner">ca-app-pub-9404075236503358/4833434426</string>
+    <string name="admob_full">ca-app-pub-9404075236503358/6310167623</string>
+
+</resources>
